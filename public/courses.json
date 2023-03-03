@@ -1,0 +1,22 @@
+{
+    "course_infor": [
+        {
+            "id": 1,
+            "name": "ACCP - Chương trình đào tạo lập trình viên mới nhất của APTECH",
+            "image": "./images/section1.jpg",
+            "desc": "Là chương trình dành cho học sinh tốt nghiệp PTTH, sinh viên các trường Cao đẳng, Đại học, những người muốn trở thành những lập trình viên Quốc tế với nghề nghiệp ổn định, thu nhập cao."
+        },
+        {
+            "id": 2,
+            "name": "KHÓA HỌC ITT",
+            "image": "./images/section2.jpg",
+            "desc": "Chương trình ITT là chương trình đào tạo Kỹ Thuật Viên Quốc Tế cho người yêu thích lập trình web và mong muốn có thể làm việc trong lĩnh vực CNTT sau thời gian học ngắn (06 tháng)."
+        },
+        {
+            "id": 3,
+            "name": "APEX - Chương trình lập trình chuyên sâu công nghệ JAVA/.NET",
+            "image": "./images/section3.jpg",
+            "desc": "Aptech Program - (Aptech EXpress) - APEX một chương trình thiết kế đặc biệt dành riêng cho sinh viên CNTT, người đi làm muốn nâng cao tay nghề trong công việc chuyên môn."
+        }
+    ]
+}

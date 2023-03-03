@@ -1,0 +1,28 @@
+{
+    "teachers_source": [
+        {
+            "id": 1,
+            "name": "Th.S Dương Hữu Phước",
+            "image": "./images/THAYPHUOC.png",
+            "chuyenmon": "Chuyên môn: C/C++, .NET Kinh nghiệm: 9 năm giảng dạy."
+        },
+        {
+            "id": 2,
+            "name": "Th.S Huỳnh Khắc Duy",
+            "image": "./images/THAYDUY.png",
+            "chuyenmon": "Chuyên môn: C, C++, C#, Java, VB, VB.Net, PHP, ASP, ASP.Net…,Kinh nghiệm: 10 năm giảng dạy"
+        },
+        {
+            "id": 3,
+            "name": "Th.S Trần Văn Hùng",
+            "image": "./images/THAYHUNG.png",
+            "chuyenmon": "Chuyên môn: Java, .Net, PHP. Kinh nghiệm: trên 10 năm giảng dạy."
+        },
+        {
+            "id": 4,
+            "name": "Th.S Nguyễn Văn Hoàng",
+            "image": "./images/THAYHOANG.png",
+            "chuyenmon": "Chuyên môn: C#, Java, PHP,...Kinh nghiệm: trên 10 năm giảng dạy."
+        }
+    ]
+}
