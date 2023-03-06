@@ -14,15 +14,16 @@
         },
         {
             "id": 3,
-            "name": "Th.S Trần Văn Hùng",
-            "image": "./images/THAYHUNG.png",
-            "chuyenmon": "Chuyên môn: Java, .Net, PHP. Kinh nghiệm: trên 10 năm giảng dạy."
-        },
-        {
-            "id": 4,
             "name": "Th.S Nguyễn Văn Hoàng",
             "image": "./images/THAYHOANG.png",
             "chuyenmon": "Chuyên môn: C#, Java, PHP,...Kinh nghiệm: trên 10 năm giảng dạy."
+        },
+        {
+            "id": 4,
+            "name": "Th.S Trần Văn Hùng",
+            "image": "./images/THAYHUNG.png",
+            "chuyenmon": "Chuyên môn: Java, .Net, PHP. Kinh nghiệm: trên 10 năm giảng dạy."
         }
+        
     ]
 }
