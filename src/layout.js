@@ -12,7 +12,7 @@ function WebLayout() {
             <div>
                 <NavigationBar />
             </div>
-            <br></br>
+            <br></br><br></br>
             <div>
                 <SlideShow />
             </div>
