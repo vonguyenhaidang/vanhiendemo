@@ -7,7 +7,7 @@ function Teachers() {
         fetch(`/teachers.json`)
             .then(response => response.json())
             .then(data => { setList(data.teachers_source) });
-        
+
     }, []);
     return (
 
@@ -21,7 +21,7 @@ function Teachers() {
                     <div class="card-deck">
                         {list.map(item =>
                             <div class="col-md-6">
-                                <div class="card p-3 bg-white rounded">
+                                <div class="card p-3 bg-white rounded h-100">
                                     <div class="row card-body">
                                         <img class="col-sm-6" src={item.image} alt="sans" height="100%" width="100%" />
                                         <div class="col-sm-6">
@@ -30,7 +30,7 @@ function Teachers() {
                                         </div>
                                     </div>
                                 </div>
-                                <br/>
+                                <br />
                             </div>
                         )}
                     </div>
