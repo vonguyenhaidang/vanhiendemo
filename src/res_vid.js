@@ -16,12 +16,12 @@ function RegistrationAndVideo() {
                     <form class="pt-0 pb-4 m-1 border">
                         <h5 class="text-center card-header bg-danger text-white">Đăng ký tư vấn miễn phí</h5>
                         <div class="form-group pl-4 pt-2 pr-4">
-                            <label for="exampleInputEmail1">Họ tên <strong style={{ color: "#b32400" }}>**</strong></label>
-                            <input type="email" class="form-control" id="exampleNameInput" aria-describedby="nameHelp" />
+                            <label for="exampleInputName">Họ tên <strong style={{ color: "#b32400" }}>**</strong></label>
+                            <input type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp" />
                         </div>
                         <div class="form-group pl-4 pr-4">
-                            <label for="exampleInputEmail1">Điện thoại <strong style={{ color: "#b32400" }}>**</strong></label>
-                            <input type="email" class="form-control" id="exampleTelephoneNumber" aria-describedby="teleHelp" />
+                            <label for="exampleTelephoneNumber">Điện thoại <strong style={{ color: "#b32400" }}>**</strong></label>
+                            <input type="text" class="form-control" id="exampleTelephoneNumber" aria-describedby="teleHelp" />
                         </div>
                         <div class="form-group pl-4 pr-4">
                             <label for="exampleInputEmail1">Email <strong style={{ color: "#b32400" }}>**</strong></label>
