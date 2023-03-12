@@ -17,7 +17,7 @@ function NavigationBar() {
                                     <li class="nav-item active">
                                         <Link class="nav-link" to="/">TRANG CHỦ <span class="sr-only">(current)</span></Link>
                                     </li>
-                                    <li class="nav-item">
+                                    <li class="nav-item active">
                                         <Link class="nav-link" to="/khoahoc">GIỚI THIỆU KHÓA HỌC</Link>
                                     </li>
                                 </ul>
