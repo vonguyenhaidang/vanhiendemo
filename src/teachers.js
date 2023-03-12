@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react';
 function Teachers() {
     const [list, setList] = useState([]);
     useEffect(() => {
-
         fetch(`/teachers.json`)
             .then(response => response.json())
             .then(data => { setList(data.teachers_source) });

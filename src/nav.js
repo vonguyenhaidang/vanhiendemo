@@ -1,3 +1,4 @@
+import { Link, Outlet } from 'react-router-dom';
 function NavigationBar() {
     return (
         <>
@@ -14,10 +15,10 @@ function NavigationBar() {
                             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="#">TRANG CHỦ <span class="sr-only">(current)</span></a>
+                                        <Link class="nav-link" to="/">TRANG CHỦ <span class="sr-only">(current)</span></Link>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link disabled" href="">GIỚI THIỆU KHÓA HỌC</a>
+                                        <Link class="nav-link" to="/khoahoc">GIỚI THIỆU KHÓA HỌC</Link>
                                     </li>
                                 </ul>
                             </div>
@@ -26,6 +27,7 @@ function NavigationBar() {
                     <br />
                 </div>
             </div>
+            <Outlet />
         </>
     );
 }
